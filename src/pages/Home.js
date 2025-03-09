@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import { Worker, Viewer } from "@react-pdf-viewer/core";
